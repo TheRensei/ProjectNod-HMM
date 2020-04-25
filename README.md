@@ -22,4 +22,10 @@ Testing can be done in any order.
 
 Real-time testing requires launching a PlayMode, so pressing the 'Run Real-Time Testing' button launches it.
 
+![](https://raw.githubusercontent.com/TheRensei/ProjectNod-HMM/master/Images/ProjectNod0.gif)
+![](https://raw.githubusercontent.com/TheRensei/ProjectNod-HMM/master/Images/ProjectNod1.gif)
+![](https://raw.githubusercontent.com/TheRensei/ProjectNod-HMM/master/Images/real-time.PNG)
+![](https://raw.githubusercontent.com/TheRensei/ProjectNod-HMM/master/Images/gesture%20capture.PNG)
+
+
 The implementation was based on this: https://arxiv.org/abs/1707.06691
